@@ -16,7 +16,7 @@ The power of fine-tuning is best shown visually. The base Stable Diffusion model
 
 | Before (Base Stable Diffusion 1.5) | After (Spirited Diffusion) |
 | :---- | :---- |
-|  |  |
+| ![Before](images/before.png) | ![After](images/after.png) |
 
 ## **🚀 Project Overview**
 
