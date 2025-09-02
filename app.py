@@ -16,7 +16,7 @@ print(f"Using device: {device}")
 # 2. Model Loading
 # IMPORTANT: Update this path to the exact name of your model file.
 # This file should be in the same directory as your app.py.
-model_path = "./your_ghibli_model.safetensors" # <-- RENAME THIS FILENAME
+model_path = "./diffusion_pytorch_model.safetensors" # <-- RENAME THIS FILENAME
 
 print("Loading the model... This might take a moment.")
 # Use `from_single_file` to correctly load your full fine-tuned DreamBooth model.
